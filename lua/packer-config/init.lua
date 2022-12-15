@@ -5,4 +5,5 @@ return require'packer'.startup(function()
     use 'nvim-tree/nvim-tree.lua'
     use 'neovim/nvim-lspconfig'
     use 'williamboman/nvim-lsp-installer'
+    use 'windwp/nvim-autopairs'
 end)
