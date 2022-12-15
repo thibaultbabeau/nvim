@@ -1,5 +1,5 @@
 local set = vim.opt
-local set = vim.g
+local let = vim.g
 
 -- General options
 set.expandtab = true
