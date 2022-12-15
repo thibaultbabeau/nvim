@@ -9,16 +9,22 @@ set.hlsearch = true
 set.incsearch = true
 set.ignorecase = true
 set.smartcase = true
-
 set.splitbelow = true
 set.splitright = true
 set.wrap = flase
 set.scrolloff = 5
+
 set.fileencoding = 'utf-8'
 set.termguicolors = true
+set.syntax = "ON"
+set.termguicolors = true
 
+set.colorcolumn = '80'
+set.number = true
 set.relativenumber = true
 set.cursorline = true
+set.scrolloff = 4
+set.signcolumn = "yes"
 
-set.hidden = true
-
+set.mouse = v
+set.mouse = a
